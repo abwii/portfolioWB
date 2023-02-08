@@ -741,7 +741,7 @@ img {
   position: absolute;
   left: 0;
   z-index: 11;
-  width: 100%;
+  width: 90%;
   bottom: 0;
   text-align: center;
 }
@@ -765,7 +765,7 @@ img {
 }
 
 .slide-img {
-  width: 100%;
+  width: 90%;
   height: 300px;
   position: absolute;
   top: 0;
