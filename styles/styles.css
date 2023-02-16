@@ -785,6 +785,10 @@ img {
   font-size: 10px;
 }
 
+.titre_veille {
+  color: var(--color-secondary);
+}
+
 .about-container .left-about p {
   padding-left: 0;
 }
